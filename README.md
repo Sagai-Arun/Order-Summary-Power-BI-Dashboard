@@ -63,6 +63,7 @@ Add forecasting models for sales and profit using DAX and Power BI’s AI capabi
 
 Enable real-time updates by connecting to live databases or APIs.
 
+
 Include customer segmentation and churn analysis to enrich business insights.
 
 Develop mobile-optimized views for better accessibility on smaller devices.
