@@ -3,11 +3,13 @@
 Welcome to Order Summary, a dynamic and insightful Power BI dashboard designed to analyze sales data across global markets, product categories, and customer segments. As an advanced beginner in data analytics, this project allowed me to apply my growing skills in data modeling, visualization, and storytelling to extract meaningful business insights from transactional data.
 
 **🔍 Overview**
+
 This dashboard was created using a sample dataset that captures transactional sales data from diverse markets such as the US, APAC, EMEA, EU, LATAM, and Africa. It includes granular details across various product sub-categories (e.g., Phones, Chairs, Accessories), shipping modes, and customer segments (Consumer, Corporate, Home Office).
 
 The objective of this dashboard is to provide an interactive summary of sales, profits, and order performance, enabling stakeholders to make quick and effective business decisions.
 
 **📈 Key Metrics and Visualizations**
+
 The dashboard highlights the following core KPIs:
 
 **Sales:** Total revenue from each product or region.
