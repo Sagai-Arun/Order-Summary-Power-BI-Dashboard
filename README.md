@@ -68,6 +68,8 @@ Include customer segmentation and churn analysis to enrich business insights.
 
 Develop mobile-optimized views for better accessibility on smaller devices.
 
+![Image](https://github.com/user-attachments/assets/b49c4835-793d-4b46-920a-e88d9f98ad8f)
+
 **📌 Conclusion**
 The Order Summary Power BI dashboard provides a robust and interactive way to visualize and explore essential business metrics. It empowers decision-makers with clear and actionable insights through well-designed visuals and smart filtering options.
 
