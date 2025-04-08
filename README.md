@@ -20,23 +20,25 @@ The dashboard highlights the following core KPIs:
 
 **Discount:** Applied discounts on transactions.
 
-Using these KPIs, I created 7 key charts for detailed performance analysis:
+**_Using these KPIs, I created 7 key charts for detailed performance analysis:_**
 
-Segment Analysis: Sales, profit, and quantity broken down by customer segments (Consumer, Corporate, Home Office).
 
-Category Analysis: Visual comparison of performance across the main product categories (Technology, Furniture, Office Supplies).
+**Segment Analysis:** Sales, profit, and quantity broken down by customer segments (Consumer, Corporate, Home Office).
 
-Market Analysis: Insights into how different markets are contributing to overall performance.
+**Category Analysis:** Visual comparison of performance across the main product categories (Technology, Furniture, Office Supplies).
 
-Top 5 Sub-Categories: Identifies the top-performing sub-categories based on selected KPIs.
+**Market Analysis:** Insights into how different markets are contributing to overall performance.
 
-Bottom 5 Sub-Categories: Highlights underperforming sub-categories to focus improvement efforts.
+**Top 5 Sub-Categories:** Identifies the top-performing sub-categories based on selected KPIs.
 
-Top 10 Countries by Sales: A world map visualization showcasing countries that generate the highest revenue.
+**Bottom 5 Sub-Categories:** Highlights underperforming sub-categories to focus improvement efforts.
+
+**Top 10 Countries by Sales: **A world map visualization showcasing countries that generate the highest revenue.
 
 Regional Market Share: Pie chart showing the sales contribution of each global region.
 
 **🧮 Interactive Filters (Slicers)**
+
 To enhance the user experience, I implemented several slicer panels that allow users to slice and dice data by:
 
 Market
@@ -50,6 +52,7 @@ Ship Mode
 These slicers make the dashboard interactive and customizable, helping stakeholders drill down into specific regions, product lines, or shipping methods.
 
 **🧠 Insights & Use Cases**
+
 Identify high- and low-performing sub-categories to adjust marketing or procurement strategies.
 
 Compare profitability across shipping modes to optimize logistics.
@@ -59,6 +62,7 @@ Understand regional market share and strategize geographic expansion.
 Explore sales trends by segment to better understand customer behavior.
 
 **🚀 Future Enhancements**
+
 Add forecasting models for sales and profit using DAX and Power BI’s AI capabilities.
 
 Enable real-time updates by connecting to live databases or APIs.
@@ -70,6 +74,7 @@ Develop mobile-optimized views for better accessibility on smaller devices.
 
 
 **📌 Conclusion**
+
 The Order Summary Power BI dashboard provides a robust and interactive way to visualize and explore essential business metrics. It empowers decision-makers with clear and actionable insights through well-designed visuals and smart filtering options.
 
 As an advanced beginner in data analytics, this project helped me sharpen my skills in Power BI, DAX, and data storytelling. I’m excited to continue refining this dashboard and exploring new analytical possibilities.# -Order-Summary-Power-BI-Dashboard
