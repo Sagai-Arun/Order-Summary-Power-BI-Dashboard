@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/b49c4835-793d-4b46-920a-e88d9f98ad8f)
+
 **📊 Order Summary – Power BI Dashboard**
 
 Welcome to Order Summary, a dynamic and insightful Power BI dashboard designed to analyze sales data across global markets, product categories, and customer segments. As an advanced beginner in data analytics, this project allowed me to apply my growing skills in data modeling, visualization, and storytelling to extract meaningful business insights from transactional data.
@@ -82,4 +84,3 @@ The Order Summary Power BI dashboard provides a robust and interactive way to vi
 As an advanced beginner in data analytics, this project helped me sharpen my skills in Power BI, DAX, and data storytelling. I’m excited to continue refining this dashboard and exploring new analytical possibilities.# -Order-Summary-Power-BI-Dashboard
 
 
-![Image](https://github.com/user-attachments/assets/b49c4835-793d-4b46-920a-e88d9f98ad8f)
